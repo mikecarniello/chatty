@@ -1,0 +1,2 @@
+# chatty
+chatGPT repository
